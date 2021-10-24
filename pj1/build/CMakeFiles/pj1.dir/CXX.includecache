@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/include/my_class.h
+stdlib.h
+-
+
+/home/rcui/Desktop/PJ/pj1/src/main.cpp
+iostream
+-
+stdio.h
+-
+my_class.h
+/home/rcui/Desktop/PJ/pj1/src/my_class.h
+
+/home/rcui/Desktop/PJ/pj1/src/my_class.cpp
+my_class.h
+/home/rcui/Desktop/PJ/pj1/src/my_class.h
+

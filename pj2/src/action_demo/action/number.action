@@ -1,0 +1,8 @@
+# Define the goal(once)
+uint32 cient_request_number
+---
+# Define the result(once)
+uint32 not_used
+---
+# Define a feedback message(peridoic)
+uint32 server_current_number

@@ -1,0 +1,4 @@
+/home/rcui/Desktop/PJ/pj1/tests/build/CMakeFiles/test.dir
+/home/rcui/Desktop/PJ/pj1/tests/build/CMakeFiles/edit_cache.dir
+/home/rcui/Desktop/PJ/pj1/tests/build/CMakeFiles/rebuild_cache.dir
+/home/rcui/Desktop/PJ/pj1/tests/build/CMakeFiles/tests.dir

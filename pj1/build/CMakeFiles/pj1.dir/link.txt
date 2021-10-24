@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/pj1.dir/src/main.cpp.o CMakeFiles/pj1.dir/src/my_class.cpp.o  -o pj1 -rdynamic 

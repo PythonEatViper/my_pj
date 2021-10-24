@@ -1,0 +1,2 @@
+action_demo
+-DCATKIN_DEVEL_PREFIX=/home/rcui/Desktop/PJ/pj2/devel -DCMAKE_INSTALL_PREFIX=/home/rcui/Desktop/PJ/pj2/install -G Unix Makefiles
